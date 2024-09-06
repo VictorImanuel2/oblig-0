@@ -7,7 +7,7 @@
 <title>(navn [mellomnavn]* etternavn)</title>
 </head>
 <body>
-<h1>Min IS-114 portfolio</h1>
+<h1>Min IS-114 portfoliooo</h1>
 <p>Kort beskrivelse av portfolio (oppgaveløsninger, dagbok, notater osv.) ...
 </body>
 </html>
