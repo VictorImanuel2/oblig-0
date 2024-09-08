@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # VictorImanuel2 
-=======
 # Git-2.46.0-64-bit.
 # <!DOCTYPE html>
 <html>
@@ -14,4 +13,4 @@
 <p>Kort beskrivelse av portfolio (oppgaveløsninger, dagbok, notater osv.) ...
 </body>
 </html>
->>>>>>> hotfix
+
